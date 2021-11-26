@@ -1,0 +1,11 @@
+If you want to develop an dance app, first you need to know how to dance.
+
+If you want to develop a guitar app, first you need to know how to play the guitar.
+
+You have enough python knowledge to build any application, but you lack expertise on specifics topics.
+
+4 ways to solve this problem
+1) Learn to play guitar (takes years) 
+2) Find a guitarist and ask him what type of application would he want to use? Work with him together. (they don't know about programming and what it can accomplish, they can be unmotivated or they can't be on same page as you. Might be pain in the ass)
+3) Forget about guitar.  Only build projects that are useful FOR YOU. If you are working on how to read documentations faster, then build an Text to speech app with mouse text selection. Stackoverflow is more than enough. 
+4) Learn about every single python package that can inspire you. As you learn more about your toolbox it can expand your horizon. Just dont get lost on endless documentation reading.
