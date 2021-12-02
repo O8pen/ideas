@@ -1,0 +1,27 @@
+Programming is only usefull for producing the same item over and over again.
+
+If you want to carry your files to another folder. And you will only need to do this one time.
+You need to do it by hand.
+
+If you want to carry your files everyday, same repatitive job for everyday.
+Then you want to program it.
+
+///////
+
+If you want to build a special house. Like it will never be built again, and you will be the
+only one that lives in it. Do it with your hands. Don't know include programming.
+
+If you will build an apartment that will be built everywhere in the city.
+Then you need programming.
+
+/////////
+
+It is all about time management.
+
+Building 1 house by hand : 10 days
+
+Building 100 houses by hand : 100 days
+
+Programming 1 house : 20 days
+
+Programming 100 houses : 20 days
