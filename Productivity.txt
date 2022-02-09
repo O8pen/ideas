@@ -1,0 +1,50 @@
+PUT ON YOUR HEADPHONES
+
+This is the single best technique to get productive. Idk how something can be that powerful.
+Live with your headphones. Track the time.
+
+PHONE SHOULD BE FAR AWAY
+
+Please don't get addicted, if you hold your phone from start of the day you probably lost 4 hours already.
+
+START YOUR COMPUTER AND SIT IN FRONT OF IT
+
+There is only one way you to make money, which is being connected to a computer.
+All the other times that you spend are just a waste of time and worthless. 
+And there is a higher chance that you would get bored and hold your phone.
+You need information to pass the time. Only productive information is at your computer.
+
+FIND THE TOPIC TO WORK ON AND OPEN 5 YOUTUBE VIDEOS
+
+So you put your headphones on, your phone is far away and you sit infront of the computer.
+But you don't want to work. Because you don't have any motivation.
+Watch some youtube videos about your work topic and you will feel more confident on working.
+
+TRACKING TIME
+
+Idk about that. Should I really track the time, if I put headphones on and sitting in front of the computer.
+Sometimes I get bored and sit up from the computer. I need to track the time to come back.
+I need to do more expiriment.
+
+Maybe I should set 2-3 hours timers (this is usually the time I get bored and don't understand the text anymore)
+After 2-3 hours take a 15 minutes break, get some fresh air.
+
+GO TO OUTSIDE, TAKE SOME FRESH AIR
+
+Every 2 hours or some time, you should go out and take some fresh air.
+After 15 minutes when you came back to your computer you will recognize that your understanding will be better.
+You should track the time and should NOT get addicted to your phone in the process.
+
+
+
+
+
+TODO
+
+Find a way to track time. 
+Chrome extension
+Phone
+Windows app
+Python script
+
+You can syncrinize the taking-a-break time with your food time.
