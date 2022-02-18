@@ -11,9 +11,12 @@ The things made me realize that:
 # Zero motivation/afford workout structure. I designed my own way of tricking my into working out that this is purely a UI/UX designed
 # Working in my bed to project my spine while using my computer. I researched the best way to improve my productivity
 # VR project is part of it I guess
+# SLOW DOWN DANCE, I can't believe I forgot that. This is my most successful UI/UX design project ever existed and it is perfect for teaching yourself dancing.
 
 I sent to this earth to do human-computer interactions
 
 I HAVE TO LEARN JS/CSS/HTML/REACT all that web front end stuff. If you are an UI/UX designer, then you have to learn the Web part of it. You can create so many more thing with it. Chrome Extensions, Websites, JS injection with your own functionality.
 If the django ever dies you just need to learn new backend framework and it is just torture.
 But the front-end has established it self that it doesn't change that often. Even if it changes(like react or angular) they are written with JS. You can easily adapt with it.
+Also frontend is better for your own personal project. You can only do backend with backend knowledge. That's it. You also need data.
+I am also insearch of better education for people and how they can be motivated to learn things and how they can easily teach themselves. If I can figure this out the humanity will improve 10millionx times faster. All we need is how we can learn stuff better and write it to our brains. Front end is the best way. 
