@@ -1,0 +1,19 @@
+I am extremely good at UI stuff, no you don't even understand
+I am extremely fucking good at it.
+My entirity of my life and my projects about creating an UI that it is the best for the humans to interact with, easy to use it, intuvitive and addictive because it make sense and fast way to interact with the computer.
+The things made me realize that:
+# Logitech G600 mouse with 20 programable buttons
+# Mini Mouse Macro has always been in my toolbox
+# Quick python scripts
+# PhraseReader-GoogleTranslate macro. (It is so successful)
+# League of legends my own keyboard and mouse layout and camera control system
+# Wild Rift my own way of using buttons and they are at the best positions they can possibly be.
+# Zero motivation/afford workout structure. I designed my own way of tricking my into working out that this is purely a UI/UX designed
+# Working in my bed to project my spine while using my computer. I researched the best way to improve my productivity
+# VR project is part of it I guess
+
+I sent to this earth to do human-computer interactions
+
+I HAVE TO LEARN JS/CSS/HTML/REACT all that web front end stuff. If you are an UI/UX designer, then you have to learn the Web part of it. You can create so many more thing with it. Chrome Extensions, Websites, JS injection with your own functionality.
+If the django ever dies you just need to learn new backend framework and it is just torture.
+But the front-end has established it self that it doesn't change that often. Even if it changes(like react or angular) they are written with JS. You can easily adapt with it.
